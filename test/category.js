@@ -9,7 +9,6 @@ const category = {
   name: "categroy01",
   userId: "5f688c8c236947354c7805e5",
 };
-let token = ``;
 
 describe("CREATE CATEGORY", function () {
   it("post:", async function () {
