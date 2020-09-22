@@ -13,8 +13,10 @@ npm start 或 npm dev
 npm test
 ### 调试
 ##### node断点调试：
-1.调试器运行 Node.js 或Node.js(previes), 
+1.调试器运行 Node.js 或Node.js(previes)
+
 2.选择run script   start
+
 3.命令行输入npm test
 
 ##### mocha断点调试：
